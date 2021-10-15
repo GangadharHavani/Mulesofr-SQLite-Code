@@ -1,0 +1,16 @@
+
+//********* OUTPUT FOR QUERY 1; **************\\
+
+Inception | Leonardo Di carpio | Emma Watson | 2016 | Christopher Nolan | 
+Avengers | Robert | Natasha | 2013 | Stanley | 
+Venom | Tom | Cardi B | 2021 | hardy | 
+Spider Man | Tom Holland | Selena | 2014 | Steve | 
+Peaky Blinders | Cilian Murphy | Sophia | 2012 | David | 
+
+
+//********* OUTPUT FOR QUERY 2; **************\\
+Inception | Leonardo Di carpio
+Avengers | Robert
+Venom | Tom
+Spider Man | Tom Holland
+Peaky Blinders | Cilian Murphy
